@@ -1,19 +1,21 @@
 **##Equilibrare App Project👋**
 
 
-#Mobile Development Cohorts
--Naufal Hilmi Majid | Teknik Informatika | Universitas Telkom
-+Abdul Aziz Febriyansah | Teknik Informatika | Universitas Telkom
 
+
+## All Members
+#Mobile Development Cohorts
+-Naufal Hilmi Majid
++Abdul Aziz Febriyansah
 
 #Cloud Computing Cohorts
--Muhamad Ardi Rahmanda | Tekniik Informatika | Universitas Indo Global Mandiri
-+M Aditya Yoga Pratama | Teknik Informatika | Universitas Indo Global Mandiri
+-Muhamad Ardi Rahmanda
++M Aditya Yoga Pratama
 
 #Machine Leraning Cohorts 
--Laila Dyah Kusuma Ramadhani | Statistika | Universitas Sebelas Maret
-+Aufa Muthia Indhi Al Hawa | Statistika | Universitas Sebelas Maret
-*Afnan | Statistika | Universitas Sebelas Maret
+-Laila Dyah Kusuma Ramadhani
++Aufa Muthia Indhi Al Hawa
+*Afnan | Statistika
 
 
 <!--
