@@ -1,21 +1,21 @@
-**##Equilibrare App Project👋**
+##Equilibrare App Project👋
 
 
 
 
 ## All Members
-#Mobile Development Cohorts
+-Mobile Development Cohorts
 -Naufal Hilmi Majid
 +Abdul Aziz Febriyansah
 
-#Cloud Computing Cohorts
+-Cloud Computing Cohorts
 -Muhamad Ardi Rahmanda
 +M Aditya Yoga Pratama
 
-#Machine Leraning Cohorts 
+-Machine Leraning Cohorts 
 -Laila Dyah Kusuma Ramadhani
 +Aufa Muthia Indhi Al Hawa
-*Afnan | Statistika
+*Afnan
 
 
 <!--
