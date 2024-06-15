@@ -3,7 +3,7 @@
 
 
 
-## All Members
+**Thankyou for the All Members**
 **Mobile Development Cohorts**
 - Naufal Hilmi Majid
 - Abdul Aziz Febriyansah
