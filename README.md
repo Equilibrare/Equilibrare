@@ -4,18 +4,18 @@
 
 
 ## All Members
--Mobile Development Cohorts
--Naufal Hilmi Majid
-+Abdul Aziz Febriyansah
+#Mobile Development Cohorts
+- Naufal Hilmi Majid
+- Abdul Aziz Febriyansah
 
--Cloud Computing Cohorts
--Muhamad Ardi Rahmanda
-+M Aditya Yoga Pratama
+#Cloud Computing Cohorts
+- Muhamad Ardi Rahmanda
+- M Aditya Yoga Pratama
 
--Machine Leraning Cohorts 
--Laila Dyah Kusuma Ramadhani
-+Aufa Muthia Indhi Al Hawa
-*Afnan
+#Machine Leraning Cohorts 
+- Laila Dyah Kusuma Ramadhani
+- Aufa Muthia Indhi Al Hawa
+- Afnan
 
 
 <!--
