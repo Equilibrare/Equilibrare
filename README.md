@@ -1,5 +1,5 @@
 ## Equilibrare App Project👋
-
+![logo app](https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png)
 
 
 
