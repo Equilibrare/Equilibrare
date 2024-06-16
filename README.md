@@ -1,17 +1,12 @@
 ## Equilibrare App Project👋
 
 
-<svg height="400" width="400">
-  <!-- Lingkaran -->
-  <circle cx="200" cy="200" r="180" fill="lightblue" />
-  <!-- Gambar -->
-  <image href="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" x="100" y="100" height="200px" width="200px"/>
-</svg>
+- **Gambar dan GIF** untuk ilustrasi.
+- **Link dan Tabel** untuk menyusun informasi.
+- **Emoji** untuk menambahkan sentuhan visual.
 
-
-
-
-
+## Logo App
+<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" alt="Logo Perusahaan" width="200"/>
 
 ### Thankyou for the All Members
 **Mobile Development Cohorts**
@@ -26,6 +21,21 @@
 - Laila Dyah Kusuma Ramadhani
 - Aufa Muthia Indhi Al Hawa
 - Afnan
+
+## Tabel
+
+| Fitur       | Deskripsi                       |
+| ----------- | --------------------------------|
+| Fitur 1     | Deskripsi fitur pertama         |
+| Fitur 2     | Deskripsi fitur kedua           |
+
+## Emoji
+
+✨🌟🚀
+
+python
+def hello_world():
+    print("Hello, world!")
 
 
 <!--
