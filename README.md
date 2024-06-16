@@ -1,5 +1,5 @@
 ## Equilibrare App Project👋
-<img src="[https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png]" alt="Logo app" width="200"/>
+<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" alt="Logo app" width="200"/>
 
 
 
