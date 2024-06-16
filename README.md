@@ -7,7 +7,7 @@
 
 ## Logo App
 <p align="center">
-<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Tak%20berjudul121_20240616162120.png" alt="Logo Perusahaan" width="200"/>
+<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Tak%20berjudul121_20240616171602.png" alt="Logo Perusahaan" width="350"/>
 </p>
 
 ### Thankyou for the All Members
