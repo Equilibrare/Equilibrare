@@ -1,10 +1,13 @@
 ## Equilibrare App Project👋
+# README dengan Gambar Berlingkaran
+
 <svg height="400" width="400">
   <!-- Lingkaran -->
   <circle cx="200" cy="200" r="180" fill="lightblue" />
-  <!-- Gambar, disesuaikan posisi dan ukurannya -->
-  <image href="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" x="75" y="75" height="250px" width="250px"/>
+  <!-- Gambar -->
+  <image href="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" x="100" y="100" height="200px" width="200px"/>
 </svg>
+
 
 
 
