@@ -6,7 +6,7 @@
 - **Emoji** untuk menambahkan sentuhan visual.
 
 ## Logo App
-<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" alt="Logo Perusahaan" width="200"/>
+<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" alt="Logo Perusahaan" width="200" align="center"/>
 
 ### Thankyou for the All Members
 **Mobile Development Cohorts**
