@@ -22,52 +22,49 @@
   </tr>
   <tr>
     <td style="text-align:center">Naufal Hilmi Majid</td>
-    <td style="text-align:center">Universitas Telkom</td>
+    <td rowspan=2 align="center"">Universitas Telkom</td>
     <td style="text-align:center">A012D4KY4126</td>
-    <td style="text-align:center">Mobile Development Cohorts</td>
-    <td style="text-align:center"></td>
+    <td rowspan=2 align="center">Mobile Development</td>
+    <td style="text-align:center">himaana</td>
   </tr>
   <tr>
     <td style="text-align:center">Abdul Aziz Febriyansah</td>
-    <td style="text-align:center">Universitas Telkom</td>
     <td style="text-align:center">A012D4KY4273</td>
-    <td style="text-align:center">Mobile Development Cohorts</td>
-    <td style="text-align:center"></td>
+    <td style="text-align:center">dull04</td>
   </tr>
   <tr>
     <td style="text-align:center">Muhamad Ardi Rahmanda</td>
-    <td style="text-align:center">Universitas Indo Global Mandiri</td>
+    <td rowspan=2 align="center">Universitas Indo Global Mandiri</td>
     <td style="text-align:center">C376D4KY0444</td>
-    <td style="text-align:center">Cloud Computing Cohorts</td>
-    <td style="text-align:center"></td>
+    <td rowspan=2 align="center">Cloud Computing</td>
+    <td style="text-align:center">Arachmanda10</td>
   </tr>
   <tr>
     <td style="text-align:center">M Aditya Yoga Pratama</td>
-    <td style="text-align:center">Universitas Indo Global Mandiri</td>
     <td style="text-align:center">C376D4KY0539</td>
-    <td style="text-align:center">Cloud Computing Cohorts</td>
-    <td style="text-align:center"></td>
+    <td style="text-align:center">prtmaaa-13</td>
+    
+  
   </tr>
   <tr>
     <td style="text-align:center">Laila Dyah Kusuma Ramadhani</td>
-    <td style="text-align:center">Universitas Negeri Sebelas Maret</td>
+    <td rowspan=3 align="center">Universitas Negeri Sebelas Maret</td>
     <td style="text-align:center">M312D4KX2721</td>
-    <td style="text-align:center">Machine Learning Cohorts</td>
-    <td style="text-align:center"></td>
+    <td rowspan=3 align="center">Machine Learning</td>
+    <td style="text-align:center">lailadyah66</td>
   </tr>
   <tr>
     <td style="text-align:center">Aufa Muthia Indhi Al Hawa</td>
-    <td style="text-align:center">Universitas Negeri Sebelas Maret</td>
     <td style="text-align:center">M312D4KX2147</td>
-    <td style="text-align:center">Machine Learning Cohorts</td>
-    <td style="text-align:center"></td>
+    <td style="text-align:center">indhialhawa</td>
+    
+   
   </tr>
   <tr>
     <td style="text-align:center">Afnan</td>
-    <td style="text-align:center">Universitas Negeri Sebelas Maret</td>
     <td style="text-align:center">M312D4KX2133</td>
-    <td style="text-align:center">Machine Learning Cohorts</td>
-    <td style="text-align:center"></td>
+    <td style="text-align:center">Afnanaz</td>
+    
   </tr>
 </table>
 
