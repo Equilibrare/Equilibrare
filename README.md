@@ -1,5 +1,11 @@
 ## Equilibrare App Project👋
-<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" alt="Logo app" width="200"/>
+<svg height="400" width="400">
+  <!-- Lingkaran -->
+  <circle cx="200" cy="200" r="180" fill="lightblue" />
+  <!-- Gambar, disesuaikan posisi dan ukurannya -->
+  <image href="https://github.com/Equilibrare/Equilibrare/blob/main/Equilibrare.png" x="75" y="75" height="250px" width="250px"/>
+</svg>
+
 
 
 
